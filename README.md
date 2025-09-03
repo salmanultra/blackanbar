@@ -6,10 +6,10 @@
 <p align="center">
 <img src="logord.png" alt="تصویر رابط کاربری" width="500"/>
 <img src="sc1.PNG" alt="تصویر رابط کاربری" width="500"/>
-<img src="sc2.PNG" alt="تصویر رابط کاربری" width="500"/>## ویژگی‌ها
+<img src="sc2.PNG" alt="تصویر رابط کاربری" width="500"/>
 </p>
---
 
+## ویژگی‌ها
 
 - رابط کاربری **سیاه و سفید و مینیمال**  
 - تمام متن‌ها و جدول‌ها **فارسی و راست‌چین (RTL)**  
@@ -37,6 +37,7 @@
 - کتابخانه‌ها:  
 ```bash
 pip install pyqt6 pandas matplotlib openpyxl
+
 
 
 
