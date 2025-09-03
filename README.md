@@ -42,3 +42,4 @@ pip install pyqt6 pandas matplotlib openpyxl
 
 
 
+
